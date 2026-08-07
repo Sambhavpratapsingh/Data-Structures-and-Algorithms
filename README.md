@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/Sambhavpratapsingh/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sambhavpratapsingh/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sambhavpratapsingh/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sambhavpratapsingh/Data-Structures-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sambhavpratapsingh/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Sambhavpratapsingh/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sambhavpratapsingh/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sambhavpratapsingh/Data-Structures-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sambhavpratapsingh/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sambhavpratapsingh/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sambhavpratapsingh/Data-Structures-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
